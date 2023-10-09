@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "849159457463",
+    "project_id": "rakwa-6fafc",
+    "storage_bucket": "rakwa-6fafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849159457463:android:cd48542dc12026fdc8db32",
+        "android_client_info": {
+          "package_name": "rakwa.turkey.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849159457463-qtur2nidm0bll9norjll58ffa9d6t70t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMsF3ZTmwH5pR33k8xfYg1WvqkcR-GySg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849159457463-qtur2nidm0bll9norjll58ffa9d6t70t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849159457463-0j8tnj3etulqp9rl0um6t3ke9q41fbem.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rakwa.turkey.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
